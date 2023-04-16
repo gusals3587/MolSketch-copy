@@ -1,0 +1,2 @@
+SET(CMAKE_CXX_FLAGS_INIT "-Wall -std=c++17")
+SET(CMAKE_C_FLAGS_INIT "-Wall -std=c11")
